@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+artifacts/
+*.keras
+*.joblib
+*.pkl
+.DS_Store
